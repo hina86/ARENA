@@ -1,0 +1,26 @@
+<idea-plugin>
+    <id>org.example.EnergyPlugin</id>
+    <name>Energy Plug-in</name>
+    <vendor email="suppt@yourmpany.com" url="http://www.yourcomy.com">No Company</vendor>
+
+    <description>My Plugin Description goes here
+
+
+
+
+
+
+
+        My Plugin Description goes here
+    </description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Energy Plugin" secondary="true" icon="AllIcons.General.Modified" anchor="right"
+                    factoryClass="ui.MyToolWindowFactory"/>
+    </extensions>
+
+</idea-plugin>
