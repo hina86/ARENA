@@ -25,4 +25,5 @@ ARENA (Analyzing eneRgy Efficiency in aNdroid Apps) is a tool developed to assis
 ## Additional Resources
 
 Towards Greener Software Engineering Using Software Analytics - https://dspace.ut.ee/items/f0a5815c-3c50-4f8e-9fc0-b0d2b3674fbf
+
 YouTube Video: Talk by Dr. Hina Anwar - https://www.youtube.com/watch?v=pIDtDRuGKls
