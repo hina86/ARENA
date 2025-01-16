@@ -1,6 +1,8 @@
 ARENA (Analyzing eneRgy Efficiency in aNdroid Apps) is a tool developed to assist developers and researchers in improving the energy efficiency of Android applications. Integrated as a plugin for Android Studio and IntelliJ IDEs, ARENA automates the energy measurement and analysis process, providing actionable insights into the energy impact of code changes and third-party libraries. This tool emerged from research focused on evaluating the energy impact of various code smell refactorings and third-party libraries used in Android apps, aiming to promote greener software engineering practices.  #energy-efficiency, #Android-development, #profiling-tool, #Android
 #EnergyEfficiency, #GreenAI, #SoftwareEngineering, #Sustainability
 
+<img alt="Layered API" src="ARENA.png" width="">
+
 ## Requirements for installing ARENA
 1.	The host system must have JAVA version 1.8 or above
 2.	Install Python 3.0 or above from here and add to the path of system environment variables.
